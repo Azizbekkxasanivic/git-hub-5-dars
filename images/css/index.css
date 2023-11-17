@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ttt{
+    text-align: center;
+}
+.rrr{
+    text-align: center;
+    padding-top: 25px;
+
+}
+.hhh{
+    text-align: center;
+    padding-top: 70px;
+}
+.vvv{
+    text-align: center;
+    padding-top: 70px;
+    margin: 30px;
+    padding: 10px;
+    background: white;
+    color: blue;
+    gap: 40px;
+}
+.bbbr{
+    color: aliceblue;
+    background: blue;
+    border: auto;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+.text{
+    text-align: center;
+    padding-top: 50px;
+}
+.vrvr{
+    text-align: center;
+    padding-top: 30px;
+}
+.brbr{
+    width: 220px;
+    color: aqua;
+}
+.srsr{
+    width: 220px;
+    color: aqua;
+
+}
+.erer{
+    width: 220px;
+    color: aqua;
+}
+.rere{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 45px;
+
+}
+.trtr{
+    text-align: center;
+    padding-top: 70px;
+}
+.asas{
+    text-align: center;
+    padding-top: 30px;
+}
+.immi{
+    
+}
+.davr{
+    display: flex;
+    justify-content: space-around;
+    background: rgb(23,0,46);
+    
+
+
+}
